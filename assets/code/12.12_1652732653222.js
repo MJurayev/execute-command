@@ -1,0 +1,1 @@
+let a = 12; let b = 10; console.log("a", a+b); setInterval(() => {console.log(a)})
